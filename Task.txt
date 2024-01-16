@@ -1,0 +1,26 @@
+Task 1: Fare la spesa
+1 - Lista della spesa: scrivi nelle note del telefono l'elenco degli articoli che devi acquistare.
+2 - Scegli il negozio dove poter acquistare tutti gli articoli scelti.
+3 - Recati al negozio scelto
+4 - Prendi il carrello
+5 - Cerca gli articoli della lista 
+6 - Raccogli tutti gli articoli in un carrello
+7 - Recati in cassa e disponi gli articoli sul nastro
+8 - Paga l'importo dovuto 
+9 - Disponi gli articoli nelle buste
+
+Task 2: Studiare un concetto
+1 - Raccogli informazioni per poter  studiare il concetto.
+2 - Ordina tutte le informazioni raccolte 
+3 - Evidenzia i concetti chiave
+4 - Leggi attentamente il materiale
+5 - Esercitati attraverso esercizi suggeriti
+6 - Verifica della comprensione del concetto attraverso quiz, test o domande di autovalutazione.
+
+Task 3: Preparare una tazza di caffè
+1- Prendere la caffettiera e aprirla
+2- Riempire il bicchiere sottostante con l'acqua fino alla valvola
+3- appoggiare il filtro di metallo e riempirlo di caffè 
+4- Richiudi la caffettiera 
+5- Posizionala sul fuoco più piccolo 
+6- Attendi il borbottiio della caffettiera per poter spegnere il fuoco
